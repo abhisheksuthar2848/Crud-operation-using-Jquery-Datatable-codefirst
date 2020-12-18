@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "temp";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>temp</h2>
+
+<div class="invoice-item display-flex mb-1">
+    <div class="invoice-item-filed row pt-1 col s12">
+        <div class="col s12 m3 input-field">
+            <select class="product invoice-item-select select2 browser-default " id="product">
+            </select>
+        </div>
+        <div class="col m3 s12 input-field">
+            <input type="text" id="productPrice1">
+        </div>
+        <div class="col m3 s12 input-field">
+            <input type="text" id="productqty1" value="1" onfocusout="InsertProductRow(this)">
+        </div>
+        <div class="col m2 s12 input-field"><input type="text" id="productTotal1" value="" disabled></div>
+    </div>
+    <div class="invoice-icon display-flex flex-column justify-content-between" id="btnDeleteRow">
+        <span class="delete-row-btn"><i class="material-icons">clear</i></span>
+    </div>
+</div>
+
+

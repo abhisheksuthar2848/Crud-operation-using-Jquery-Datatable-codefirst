@@ -1,0 +1,360 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_template.cshtml";
+}
+
+
+<style>
+    .select-wrapper select {
+        display: none !important;
+    }
+
+    .dataTables_wrapper {
+        max-width: 100%;
+        overflow-x: auto;
+    }
+
+    div#userTable_length select {
+        display: inline-block;
+        height: 30px;
+        width: 67px;
+    }
+
+    div#userTable_filter {
+        margin-right: 16px;
+    }
+
+    .dataTables_length, .dataTables_filter {
+        display: block !important;
+    }
+</style>
+
+<!-- Add modeel start-->
+<!-- Modal Trigger -->
+<a class="waves-effect waves-light btn modal-trigger" href="#modal1">Add</a>
+<!-- Modal Structure -->
+<div id="modal1" class="modal modal-fixed-footer">
+
+    <div class="modal-content">
+
+        <div id="validation">
+
+            <h4 class="card-title">Add Custumer</h4>
+            <form>
+                <div class="row">
+                    <div class="input-field col m6 s12">
+                        <i class="material-icons prefix">account_circle</i>
+                        <input id="name1" type="text" class="validate">
+                        <input id="cid" type="hidden">
+                        <label for="name1">Name</label>
+                    </div>
+
+                    <div class="input-field col m6 s12">
+                        <i class="material-icons prefix">email</i>
+                        <input id="email1" type="email" class="validate">
+                        <label for="email1">Email</label>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="input-field col s12">
+                        <i class="material-icons prefix">address</i>
+                        <input id="address1" type="text" class="validate">
+                        <label for="address1">Address</label>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="input-field col s12">
+                        <i class="material-icons prefix">phone</i>
+                        <textarea id="phone1" class="materialize-textarea validate"></textarea>
+                        <label for="phone">Phone</label>
+                    </div>
+
+                </div>
+
+            </form>
+        </div>
+        <!-- Form with validation -->
+    </div>
+    <div class="modal-footer">
+        <button class="btn cyan waves-effect waves-light right" id="btnSubmit" type="submit" name="action">
+            Submit
+            <i class="material-icons right">send</i>
+        </button>
+        <button class="btn cyan waves-effect waves-light right" id="btnUpdate" type="submit" name="action" >
+            Update
+            <i class="material-icons right">send</i>
+        </button>
+    </div>
+
+</div>
+
+
+<div id="modalcreditcardprocessor" class="modal">
+    <div class="modal-header">
+
+
+        <h5 class="indigo-text" style="margin-top: 10px;margin-left: 23px;" id="headercard">Add New Credit Card Profile</h5>
+
+
+    </div>
+    <div class="modal-content">
+
+
+
+
+    </div>
+    <div class="modal-footer">
+
+        <div class="col s12 display-flex justify-content-end mt-3">
+            <div class="left">
+                <button type="button" id="btntest" class="btn indigo left">
+                    Test
+                </button>
+            </div>
+
+            <button type="button" id="btnsavecreditcard" class="btn indigo">
+                Save
+            </button>
+            <button type="button" class="btn btn-light" id="btncanclecard">Cancel</button>
+        </div>
+    </div>
+</div>
+<!--End Add modeel -->
+<!--  Start Display-->
+<div class="users-list-table">
+    <div class="card">
+        <div class="card-content">
+            <!-- datatable start -->
+            <div class="responsive-table">
+                <table id="userTable" class="table">
+                    <thead>
+                        <tr>
+
+                           
+                            <th>CustomerName</th>
+                            <th>CustomerAddress</th>
+                            <th>CustomerPhone</th>
+                            <th>CustomerEmail</th>
+                            <th>Action</th>
+                            @*<th>Edit</th>
+                <th>View</th>*@
+                        </tr>
+                    </thead>
+                    <tbody>
+                 
+                        
+                    </tbody>
+                </table>
+            </div>
+            <!-- datatable ends -->
+        </div>
+    </div>
+</div>
+<!--  End Display-->
+<script>
+    $(document).ready(function () {
+        //debugger
+        $('.modal').modal();
+        //loadData();
+        GetDataTableData();
+        $("#btnUpdate").hide();
+    });
+
+    $(document).on("click", "#btnSubmit", function () {
+        debugger
+       
+        var fileData = new FormData();
+        fileData.append("CustomerName", $("#name1").val());
+        fileData.append("CustomerEmail", $("#email1").val());
+        fileData.append("CustomerAddress", $("#address1").val());
+        fileData.append("CustomerPhone", $("#phone1").val());
+
+
+        $.ajax({
+            type: 'post',
+            url: '/Customer/insert',
+            data: fileData,
+            contentType: false,
+            processData: false,
+            success: function (data) {
+                alert("success");
+                GetDataTableData()
+
+            },
+            error: function (err) {
+                alert(err);
+            }
+        });
+
+        clear()
+        $('#modal1').modal('close');
+
+    });
+
+    function clear() {
+        $("#name1").val("")
+        $("#email1").val("");
+        $("#address1").val("");
+        $("#phone1").val("");
+
+    }
+
+    function GetDataTableData() {
+        //debugger
+
+        $("#userTable").DataTable({
+            "processing": true,
+            "serverSide": true,
+            "filter": true,
+            "orderMulti": false,
+            "destroy": true,
+            "ordering": true,
+            "ajax": {
+                "url": '/Customer/GetTableData',
+                "type": "post",
+
+                "datatype": "json"
+            },
+            "columns": [
+               
+                {
+                    "data": "CustomerName",
+                    "autoWidth": true,
+                    "searchable": true
+                },
+                {
+                    "data": "CustomerAddress",
+                    "autoWidth": true,
+                    "searchable": true
+                },
+                {
+                    "data": "CustomerPhone",
+                    "autoWidth": true,
+                    "searchable": true
+                }, {
+                    "data": "CustomerEmail",
+                    "autoWidth": true,
+                    "searchable": true
+                },
+
+                {
+                    data: "notes",
+                    searchable: false,
+                    sortable:false,
+                    render: function (data, type, row) {
+                      
+                        return '<td><a onclick="GetDataByID(' + row.CustomerId + ')"><i class="material-icons">edit</i></a></td><td><a onclick=""><i class="material-icons">remove_red_eye</i></a></td><td><a onclick="Delete(' + row.CustomerId +')"><i class="material-icons">delete</i></a></td>';
+                    }
+
+                }
+            ]
+
+
+        });
+    }
+
+    function GetDataByID(CustomerId) {
+        $('#modal1').modal('open');
+        $('#modal1 label').addClass("active")
+
+        //debugger
+        $("#btnUpdate").show();
+        $("#btnSubmit").hide();
+
+        $.ajax({
+            url: '/Customer/GetById/' + CustomerId,
+            type: 'get',
+            dataType: 'json',
+            success: function (data) {
+              
+                $("#name1").val(data.CustomerName);
+                $("#email1").val(data.CustomerPhone);
+                $("#address1").val(data.CustomerAddress);
+                $("#phone1").val(data.CustomerEmail);
+                $("#cid").val(data.CustomerId);
+
+            },
+            error: function (data) {
+                alert(data);
+            }
+        });
+    }
+
+    $(document).on("click", "#btnUpdate", function () {
+        debugger
+
+        var fileData = new FormData();
+        fileData.append("CustomerName", $("#name1").val());
+        fileData.append("CustomerEmail", $("#email1").val());
+        fileData.append("CustomerAddress", $("#address1").val());
+        fileData.append("CustomerPhone", $("#phone1").val());
+        fileData.append("CustomerId", $("#cid").val());
+
+
+        
+        $.ajax({
+            url: '/Customer/Update',
+            type: 'post',
+            data: fileData,
+           
+            contentType: false,
+            processData: false,
+            success: function (data) {
+                debugger
+                alert(data);
+                clear();
+                GetDataTableData();
+            },
+            error: function (err) {
+                debugger
+                alert(err);
+            }
+
+
+        });
+
+    });
+   
+
+    function Delete(id) {
+        debugger
+       
+        swal({
+            title: "Are you sure?",
+            text: "You will not be able to recover this imaginary file!",
+            icon: 'warning',
+            buttons: {
+                cancel: true,
+                delete: 'Yes, Delete It'
+            }
+        }).then(function (willDelete) {
+            if (willDelete) {
+                $.ajax({
+                    url: '/Customer/Delete/' + id,
+                    type: 'post',
+                    datatype: 'json',
+                    success: function (data) {
+                        //alert(data);
+                        GetDataTableData();
+                    },
+                    error: function (err) {
+                        alert(err);
+                    }
+                });
+            } else {
+                swal("Your Customer is safe", {
+                    title: 'Cancelled',
+                    icon: "error",
+                });
+            }
+        });
+      
+
+      
+           
+
+        
+    }
+
+</script>

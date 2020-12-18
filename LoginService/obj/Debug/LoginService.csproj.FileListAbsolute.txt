@@ -1,0 +1,467 @@
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\LoginService.dll.config
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\LoginService.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\LoginService.pdb
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\csc.exe
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\csc.exe.config
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\csc.rsp
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\csi.exe
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\csi.exe.config
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\csi.rsp
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.AppContext.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.Console.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\vbc.exe
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\vbc.exe.config
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\vbc.rsp
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Antlr3.Runtime.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\EntityFramework.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\EntityFramework.SqlServer.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.Owin.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.Owin.Security.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Newtonsoft.Json.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Owin.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\System.Web.Helpers.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\System.Web.Mvc.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\System.Web.Optimization.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\System.Web.Razor.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\System.Web.WebPages.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\WebGrease.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\System.Web.Helpers.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\System.Web.Mvc.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\System.Web.Optimization.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\System.Web.Razor.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\System.Web.WebPages.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Newtonsoft.Json.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Antlr3.Runtime.pdb
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\EntityFramework.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\EntityFramework.SqlServer.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.Owin.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.Owin.Security.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\obj\Debug\LoginService.csproj.CoreCompileInputs.cache
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\obj\Debug\LoginService.csproj.CopyComplete
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\obj\Debug\LoginService.dll
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\obj\Debug\LoginService.pdb
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\obj\Debug\LoginService.Migrations.initial.resources
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\obj\Debug\LoginService.csproj.GenerateResource.cache
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\obj\Debug\LoginService.Migrations.AddExtraTable.resources
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\obj\Debug\LoginService.Migrations.AddNewFiledINCustomer.resources
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\obj\Debug\LoginService.Migrations.chagedatatype.resources
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\obj\Debug\LoginService.Migrations.changestorecreatebystring.resources
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\obj\Debug\LoginService.Migrations.datenullable.resources
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\obj\Debug\LoginService.csprojAssemblyReference.cache
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\obj\Debug\LoginService.Migrations.somechange.resources
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\obj\Debug\LoginService.Migrations.somechange2.resources
+C:\Users\Dilip-Pc\source\repos\LoginService\LoginService\obj\Debug\LoginService.Migrations.somechange3.resources
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\LoginService.dll.config
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\LoginService.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\LoginService.pdb
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\csc.exe
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\csc.exe.config
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\csc.rsp
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\csi.exe
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\csi.exe.config
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\csi.rsp
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.AppContext.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.Console.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.IO.Compression.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.Security.Claims.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.ValueTuple.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\vbc.exe
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\vbc.exe.config
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\vbc.rsp
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\VBCSCompiler.exe
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Antlr3.Runtime.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\EntityFramework.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\EntityFramework.SqlServer.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.Owin.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.Owin.Security.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Newtonsoft.Json.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Owin.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\System.Web.Helpers.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\System.Web.Mvc.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\System.Web.Optimization.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\System.Web.Razor.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\System.Web.WebPages.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\System.Web.WebPages.Razor.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\WebGrease.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\EntityFramework.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\EntityFramework.SqlServer.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\System.Web.Helpers.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\System.Web.Mvc.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\System.Web.Optimization.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\System.Web.Razor.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\System.Web.WebPages.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\System.Web.WebPages.Razor.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Newtonsoft.Json.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Antlr3.Runtime.pdb
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.Owin.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.Owin.Security.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\obj\Debug\LoginService.csprojAssemblyReference.cache
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\obj\Debug\LoginService.Migrations.initial.resources
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\obj\Debug\LoginService.Migrations.AddExtraTable.resources
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\obj\Debug\LoginService.Migrations.AddNewFiledINCustomer.resources
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\obj\Debug\LoginService.Migrations.chagedatatype.resources
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\obj\Debug\LoginService.Migrations.changestorecreatebystring.resources
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\obj\Debug\LoginService.Migrations.datenullable.resources
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\obj\Debug\LoginService.Migrations.somechange.resources
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\obj\Debug\LoginService.Migrations.somechange2.resources
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\obj\Debug\LoginService.Migrations.somechange3.resources
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\obj\Debug\LoginService.csproj.GenerateResource.cache
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\obj\Debug\LoginService.csproj.CoreCompileInputs.cache
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\obj\Debug\LoginService.csproj.CopyComplete
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\obj\Debug\LoginService.dll
+C:\Users\shree\Downloads\backup 11-12-20\LoginService\LoginService\obj\Debug\LoginService.pdb
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\LoginService.dll.config
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\LoginService.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\LoginService.pdb
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\csc.exe
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\csc.exe.config
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\csc.rsp
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\csi.exe
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\csi.exe.config
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\csi.rsp
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.AppContext.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.Console.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\vbc.exe
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\vbc.exe.config
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\vbc.rsp
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Antlr3.Runtime.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\EntityFramework.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\EntityFramework.SqlServer.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.Owin.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Newtonsoft.Json.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Owin.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\System.Web.Helpers.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\System.Web.Mvc.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\System.Web.Optimization.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\System.Web.Razor.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\System.Web.WebPages.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\WebGrease.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\EntityFramework.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\EntityFramework.SqlServer.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\System.Web.Helpers.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\System.Web.Mvc.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\System.Web.Optimization.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\System.Web.Razor.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\System.Web.WebPages.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Newtonsoft.Json.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Antlr3.Runtime.pdb
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.Owin.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.initial.resources
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.AddExtraTable.resources
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.AddNewFiledINCustomer.resources
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.chagedatatype.resources
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.changestorecreatebystring.resources
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.datenullable.resources
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.somechange.resources
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.somechange2.resources
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.somechange3.resources
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\obj\Debug\LoginService.csproj.GenerateResource.cache
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\obj\Debug\LoginService.csproj.CoreCompileInputs.cache
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\obj\Debug\LoginService.csproj.CopyComplete
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\obj\Debug\LoginService.dll
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\obj\Debug\LoginService.pdb
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.addInvoiceItemTable.resources
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.addSpgetinvoicelist.resources
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.addSpgetinvoicelist1.resources
+C:\Users\Dilip-Pc\Downloads\saturday night\LoginService\LoginService\obj\Debug\LoginService.csprojAssemblyReference.cache
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\LoginService.dll.config
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\LoginService.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\LoginService.pdb
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\csc.exe
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\csc.exe.config
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\csc.rsp
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\csi.exe
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\csi.exe.config
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\csi.rsp
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.AppContext.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.Console.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.IO.Compression.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.Security.Claims.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.ValueTuple.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\vbc.exe
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\vbc.exe.config
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\vbc.rsp
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\VBCSCompiler.exe
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Antlr3.Runtime.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\EntityFramework.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\EntityFramework.SqlServer.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.Owin.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Newtonsoft.Json.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Owin.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\System.Web.Helpers.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\System.Web.Mvc.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\System.Web.Optimization.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\System.Web.Razor.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\System.Web.WebPages.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\System.Web.WebPages.Razor.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\WebGrease.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\EntityFramework.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\EntityFramework.SqlServer.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\System.Web.Helpers.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\System.Web.Mvc.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\System.Web.Optimization.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\System.Web.Razor.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\System.Web.WebPages.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\System.Web.WebPages.Razor.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Newtonsoft.Json.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Antlr3.Runtime.pdb
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.Owin.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\obj\Debug\LoginService.csprojAssemblyReference.cache
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.initial.resources
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.AddExtraTable.resources
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.AddNewFiledINCustomer.resources
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.chagedatatype.resources
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.changestorecreatebystring.resources
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.datenullable.resources
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.somechange.resources
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.somechange2.resources
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.somechange3.resources
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.addInvoiceItemTable.resources
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.addSpgetinvoicelist.resources
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\obj\Debug\LoginService.Migrations.addSpgetinvoicelist1.resources
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\obj\Debug\LoginService.csproj.GenerateResource.cache
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\obj\Debug\LoginService.csproj.CoreCompileInputs.cache
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\obj\Debug\LoginService.csproj.CopyComplete
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\obj\Debug\LoginService.dll
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\obj\Debug\LoginService.pdb
+C:\Users\shree\Downloads\saturday nightLastUse\saturday night\LoginService\LoginService\bin\Rotativa.dll
